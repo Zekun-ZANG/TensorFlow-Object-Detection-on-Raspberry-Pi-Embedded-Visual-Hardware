@@ -19,4 +19,3 @@ sudo apt-get install libxvidcore-dev libx264-dev
 sudo apt-get install qt4-dev-tools libatlas-base-dev
 
 pip3 install opencv-python==3.4.6.27 
-
